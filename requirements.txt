@@ -1,0 +1,5 @@
+lightgbm==4.5.0
+numpy==2.1.2
+pandas==2.2.3
+pyspark==3.5.3
+scikit_learn==1.5.2
